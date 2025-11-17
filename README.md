@@ -263,8 +263,9 @@ Dự án mã nguồn mở, tự do sử dụng và chỉnh sửa.
 
 ## 👤 Tác giả
 
-Dự án được phát triển cho mục đích học tập và nghiên cứu.
+By Phuc Bang   
 
 ---
 
 **Chúc bạn thành công với dự án!** 🚀
+
